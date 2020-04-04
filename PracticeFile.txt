@@ -1,1 +1,0 @@
-Hey guys. I'm making this file so we can understand how this collaboration works. When you want to edit a file in our repository just click on the pencil.
