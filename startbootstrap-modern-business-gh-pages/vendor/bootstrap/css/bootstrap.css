@@ -10035,4 +10035,10 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+/*These are css edits for our group project*/
+  .gv-logo{
+    margin-right: 10px;
+  }
+
 /*# sourceMappingURL=bootstrap.css.map */
