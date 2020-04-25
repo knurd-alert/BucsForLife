@@ -6404,15 +6404,18 @@ a.close.disabled {
 
 .carousel-caption {
   position: absolute;
-  right: 15%;
+  /* right: 15%; */
   bottom: 20px;
-  left: 15%;
+  /* left: 15%; */
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
   color: #fff;
   text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
 }
+
 
 @-webkit-keyframes spinner-border {
   to {
